@@ -11,7 +11,6 @@
 
 
 ### Completed Rooms
-| Room | Description | Repository | 
-| --- | --- | --- | 
-| [OhSINT](https://tryhackme.com/room/ohsint) | __What information can you possible get with just one photo?__ <br>Used Open Source Information to solve the Challenge by researching <br>on google and metadata based on the the photo given as a Start point | [Github Link](https://github.com/paulemacedo/CTF-OhSINT) | 
-
+  <p align="left">
+   <a href="https://github.com/paulemacedo/ohsint"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=ohsint&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  </p>
