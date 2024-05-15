@@ -13,4 +13,5 @@
 ### Completed Rooms
 
 [![Ohsint](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=ohsint)](https://github.com/anuraghazra/github-readme-stats)
-
+[![cibersecurity-desafio-phishing](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=cibersecurity-desafio-phishing)](https://github.com/anuraghazra/github-readme-stats)
+[![Projeto-Ransomware](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=Projeto-Ransomware)](https://github.com/anuraghazra/github-readme-stats)
