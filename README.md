@@ -7,7 +7,7 @@
 ### Badges
 [<img src="https://assets.tryhackme.com/img/badges/ohsint.svg" height="75" alt="python logo"/>](https://tryhackme.com/paulemacedo/badges/ohsint)
 [<img src="https://assets.tryhackme.com/img/badges/streak7.svg" height="75" alt="python logo"/>](https://tryhackme.com/paulemacedo/badges/7-day-streak)
-<img src="https://github.com/paulemacedo/paulemacedo/assets/59907505/bbdf9b47-7c06-4504-9eac-8f5a10704c09" alt="cat" height="68" >
+<img src="https://github.com/paulemacedo/paulemacedo/assets/59907505/bbdf9b47-7c06-4504-9eac-8f5a10704c09" alt="cat" height="65" >
 
 
 ### Completed Rooms
