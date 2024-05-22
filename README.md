@@ -1,8 +1,12 @@
 ### [![CTF](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6e548c&random=false&width=450&height=40&lines=Capture+The+Flag!)]()
 
-### My Labs
+### My Lab
+
 [<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="60" alt="python logo"/>]()
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="70" alt="python logo"/>](https://www.kali.org/)
 [<img src="https://tryhackme.com/img/favicon.png" height="60" alt="python logo"/>](https://tryhackme.com/p/paulemacedo)
+
+
 
 ### Badges
 [<img src="https://assets.tryhackme.com/img/badges/ohsint.svg" height="75" alt="python logo"/>](https://tryhackme.com/paulemacedo/badges/ohsint)
