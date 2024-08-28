@@ -15,11 +15,9 @@
 
 
 ### Completed Rooms
-[<img src="https://github.com/user-attachments/assets/64656812-d0c3-4dd4-98ba-d2599b743f9e" height="120" alt="OhSINT"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OhSINT.md)
-[<img src="https://github.com/user-attachments/assets/98678b06-80e3-4c89-9638-313e89c202fb" height="120" alt="GloboSecWeek2024"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OSINT%20-%20GloboSecWeek2024.md)
-[<img src="https://github.com/user-attachments/assets/759be039-4637-4877-9a37-b6ee4959daaa" height="120" alt="GloboSecWeek2024"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OSINT%20-%20GloboSecWeek2024.md)
+[<img src="https://github.com/user-attachments/assets/3fc48062-9fd1-4636-b444-55cac6174bb1" height="130" alt="OhSINT"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OhSINT.md)
+[<img src="https://github.com/user-attachments/assets/65ba9aa5-0648-4c7f-b0c0-6643155b18a3" height="130" alt="GloboSecWeek2024"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OSINT%20-%20GloboSecWeek2024.md)
+[<img src="https://github.com/user-attachments/assets/a4e248b5-b34f-422e-be78-45a90a37ae23" height="130" alt="GloboSecWeek2024"/>]()
 
-<!--
-[![Ohsint](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=ohsint)](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OhSINT.md)
-[![cibersecurity-desafio-phishing](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=cibersecurity-desafio-phishing)](https://github.com/paulemacedo/cibersecurity-desafio-phishing)
-[![Projeto-Ransomware](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=Projeto-Ransomware)](https://github.com/paulemacedo/Projeto-Ransomware)
+![2024-08-28 01-25-12]()
+![2024-08-28 01-25-08]()
