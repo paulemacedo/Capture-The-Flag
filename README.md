@@ -16,6 +16,11 @@
 
 ### Completed Rooms
 
-[![Ohsint](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=ohsint)](https://github.com/paulemacedo/CTF-OhSINT)
+[<img src="https://github.com/user-attachments/assets/97ea4b6e-797c-45da-873c-e8e2b3c1f1b0" height="110" alt="python logo"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OhSINT.md)
+[<img src="https://github.com/user-attachments/assets/cfed2077-7bea-482b-a76b-2c7fc861e86c" height="110" alt="python logo"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OSINT%20-%20GloboSecWeek2024.md)
+
+
+<!--
+[![Ohsint](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=ohsint)](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OhSINT.md)
 [![cibersecurity-desafio-phishing](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=cibersecurity-desafio-phishing)](https://github.com/paulemacedo/cibersecurity-desafio-phishing)
 [![Projeto-Ransomware](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=Projeto-Ransomware)](https://github.com/paulemacedo/Projeto-Ransomware)
