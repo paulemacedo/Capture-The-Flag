@@ -15,8 +15,9 @@
 
 
 ### Completed Rooms
-[<img src="https://github.com/user-attachments/assets/20982d90-34ce-4831-be34-872860dcefdb" height="120" alt="OhSINT"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OhSINT.md)
-[<img src="https://github.com/user-attachments/assets/898bc780-ff90-4166-bc31-a3d0a2d6893b" height="120" alt="GloboSecWeek2024"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OSINT%20-%20GloboSecWeek2024.md)
+[<img src="https://github.com/user-attachments/assets/64656812-d0c3-4dd4-98ba-d2599b743f9e" height="120" alt="OhSINT"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OhSINT.md)
+[<img src="https://github.com/user-attachments/assets/98678b06-80e3-4c89-9638-313e89c202fb" height="120" alt="GloboSecWeek2024"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OSINT%20-%20GloboSecWeek2024.md)
+[<img src="https://github.com/user-attachments/assets/759be039-4637-4877-9a37-b6ee4959daaa" height="120" alt="GloboSecWeek2024"/>](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OSINT%20-%20GloboSecWeek2024.md)
 
 <!--
 [![Ohsint](https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&theme=tokyonight&repo=ohsint)](https://github.com/paulemacedo/Capture-The-Flag/blob/main/Easy/OhSINT.md)
