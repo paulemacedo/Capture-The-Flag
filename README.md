@@ -1,4 +1,4 @@
-### [![CTF](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6e548c&random=false&width=450&height=40&lines=Capture+The+Flag!)]()
+### [![CTF](https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=25&pause=1000&color=6E548C&width=435&lines=Capture+The+flag!)]()
 
 ### My Lab
 
